@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TodoListItem should match snapshot 1`] = `
+<li
+  className="list-group-item"
+  key="1"
+>
+  <div
+    className="row"
+  >
+    <div
+      className="col-9"
+    >
+      <p
+        className="false"
+        onClick={[Function]}
+        style={
+          Object {
+            "cursor": "pointer",
+          }
+        }
+      >
+        1
+        . 
+        Make bed
+      </p>
+    </div>
+    <div
+      className="col-3"
+    >
+      <div
+        className="text-right"
+      >
+        <button
+          className="btn btn-warning mr-2"
+          onClick={[Function]}
+        >
+          Edit
+        </button>
+        <button
+          className="btn btn-danger"
+          onClick={[Function]}
+        >
+          Delete
+        </button>
+      </div>
+    </div>
+  </div>
+</li>
+`;

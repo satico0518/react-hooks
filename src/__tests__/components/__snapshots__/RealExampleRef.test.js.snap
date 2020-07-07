@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RealExampleRef should match snapdhot 1`] = `
+<div>
+  <h1>
+    RealExampleRef
+  </h1>
+  <hr />
+  <MultipleCustomHooks />
+  <button
+    className="btn btn-danger"
+    onClick={[Function]}
+  >
+    Toogle Component
+  </button>
+</div>
+`;
